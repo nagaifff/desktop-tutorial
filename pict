@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>マイ ウェブページ</title>
+</head>
+<body>
+    <h1>ようこそ、マイ ウェブページへ！</h1>
+    <p>これはサンプルのウェブページです。</p>
+    <img src="https://pdfbox.blob.core.windows.net/nobuko/001.png" alt="サンプル画像">
+</body>
+</html>
